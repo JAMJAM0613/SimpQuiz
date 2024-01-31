@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">HisQuizz</string>
+
+    <string name="score">Score 0/20</string>
+    <string name="question_number">1/20 Question</string>
+
+    <string name="question_1">Which treaty was signed at the end of World War I?</string>
+    <string name="question1_A">Treaty of Paris</string>
+    <string name="question1_B">Treaty of Maastricht</string>
+    <string name="question1_C">Treaty of Versailles</string>
+    <string name="question1_D">Treaty of London</string>
+    <string name="answer_1">Treaty of Versailles</string>
+
+
+    <string name="question_2">When was the Great Crash of Wall Street?</string>
+    <string name="question_2A">1929</string>
+    <string name="question_2B">1939</string>
+    <string name="question_2C">1949</string>
+    <string name="question_2D">1959</string>
+    <string name="answer_2">1929</string>
+
+
+    <string name="question_3"> Which country did Hitler invade on the 1st of September 1939?</string>
+    <string name="question_3A"> Austria</string>
+    <string name="question_3B">The Netherlands</string>
+    <string name="question_3C">Poland</string>
+    <string name="question_3D">France</string>
+    <string name="answer_3">Poland</string>
+
+    <string name="question_4">In which country did the Battle of Culloden take place?</string>
+    <string name="question_4A">Scotland</string>
+    <string name="question_4B">Ireland</string>
+    <string name="question_4C">Wales</string>
+    <string name="question_4D">England</string>
+    <string name="answer_4">Scotland</string>
+
+    <string name="question_5">When did the wall of Berlin fall?</string>
+    <string name="question_5A">1979</string>
+    <string name="question_5B">1983</string>
+    <string name="question_5C">1986</string>
+    <string name="question_5D">1989</string>
+    <string name="answer_5">1989</string>
+
+    <string name="question_6">In which country were the cities of Hiroshima and Nagasaki bombed on August 6th, 1945?</string>
+    <string name="question_6A"> China</string>
+    <string name="question_6B">Thailand</string>
+    <string name="question_6C">Japan</string>
+    <string name="question_6D">Malaysia</string>
+    <string name="answer_6">Japan</string>
+
+    <string name="question_7">In which Texan city was JFK assassinated?</string>
+    <string name="question_7A">Houston</string>
+    <string name="question_7B">Austin</string>
+    <string name="question_7C">Dallas</string>
+    <string name="question_7D">San Antonio</string>
+    <string name="answer_7">Dallas</string>
+
+    <string name="question_8">When did the US declare their independence?</string>
+    <string name="question_8A"> 1756</string>
+    <string name="question_8B">1766</string>
+    <string name="question_8C">1776</string>
+    <string name="question_8D">1786</string>
+    <string name="answer_8">1776</string>
+
+    <string name="question_9">Which of the following landmarks was not hit during the 9/11 attacks?</string>
+    <string name="question_9A">World Trade Center – South Tower</string>
+    <string name="question_9B">US capitol</string>
+    <string name="question_9C">Pentagon</string>
+    <string name="question_9D">World Trade Center – North Tower</string>
+    <string name="answer_9">US capitol</string>
+
+    <string name="question_10">Which historical event is the Storming of the Bastille associated with?</string>
+    <string name="question_10A"> Cold War</string>
+    <string name="question_10B">American Civil War</string>
+    <string name="question_10C">French Revolution</string>
+    <string name="question_10D">WWII</string>
+    <string name="answer_10">French Revolution</string>
+
+    <string name="question_11">When was William the Conqueror crowned King of England?</string>
+    <string name="question_11A"> 966</string>
+    <string name="question_11B">1066</string>
+    <string name="question_11C">1166</string>
+    <string name="question_11D">1266</string>
+    <string name="answer_11">1066</string>
+
+    <string name="question_12">What event was the catalyst for the start of World War I?</string>
+    <string name="question_12A">The invasion of Poland</string>
+    <string name="question_12B">The assassination of Austrian Archduke Franz Ferdinand</string>
+    <string name="question_12C">Pearl Harbour bombing</string>
+    <string name="question_12D">The Black Death</string>
+    <string name="answer_12">The assassination of Austrian Archduke Franz Ferdinand</string>
+
+    <string name="question_13">Which battle ended the war of Roses?</string>
+    <string name="question_13A"> Battle of Waterloo</string>
+    <string name="question_13B">Battle of Hastings</string>
+    <string name="question_13C">Battle of Verdun</string>
+    <string name="question_13D">Battle of Bosworth</string>
+    <string name="answer_13">Battle of Bosworth</string>
+
+    <string name="question_14">Which US President famously said “A day that will live in infamy” about Pearl Harbour?</string>
+    <string name="question_14A"> Herbert Hoover</string>
+    <string name="question_14B">Harry S. Truman</string>
+    <string name="question_14C">Franklin D. Roosevelt</string>
+    <string name="question_14D">Calvin Coolidge</string>
+    <string name="answer_14">Franklin D. Roosevelt</string>
+
+    <string name="question_15">Which country got its independence from Britain on the 15th of August 1947?</string>
+    <string name="question_15A">Australia</string>
+    <string name="question_15B">India</string>
+    <string name="question_15C">South Africa</string>
+    <string name="question_15D">New Zealand</string>
+    <string name="answer_15">India</string>
+
+    <string name="question_16">Who were the plotters trying to assassinate during the Gunpowder plot?</string>
+    <string name="question_16A"> Queen Elizabeth I</string>
+    <string name="question_16B">King James I</string>
+    <string name="question_16C">King Charles I</string>
+    <string name="question_16D">King William III</string>
+    <string name="answer_16">King James I</string>
+
+    <string name="question_17">What was the nickname of King Louis XIV of France?</string>
+    <string name="question_17A"> Kind King</string>
+    <string name="question_17B">Player King</string>
+    <string name="question_17C">Sun King</string>
+    <string name="question_17D">Fat King</string>
+    <string name="answer_17">Sun King</string>
+
+    <string name="question_18">Who created the National Fascist Party in Italy?</string>
+    <string name="question_18A"> Francisco Franco</string>
+    <string name="question_18B">Jozef Tiso</string>
+    <string name="question_18C">Benito Mussolini</string>
+    <string name="question_18D">Ion Antonescu</string>
+    <string name="answer_18">Benito Mussolini</string>
+
+    <string name="question_19">Who famously named the ‘Iron Curtain’ as such?</string>
+    <string name="question_19A"> Charles de Gaulle</string>
+    <string name="question_19B">Winston Churchill</string>
+    <string name="question_19C">Ronald Reagan</string>
+    <string name="question_19D">Mikhail Gorbachev</string>
+    <string name="answer_19">Winston Churchill</string>
+
+    <string name="question_20">Which country did the US purchase Louisiana from?</string>
+    <string name="question_20A"> Spain</string>
+    <string name="question_20B">Portugal</string>
+    <string name="question_20C">The Netherlands</string>
+    <string name="question_20D">France</string>
+    <string name="answer_20">France</string>
+
+
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+
+</resources>
